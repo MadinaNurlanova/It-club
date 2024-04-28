@@ -1,0 +1,1385 @@
+html {
+font-size:62.5%;
+}
+
+* {
+margin:0;
+padding:0;
+}
+
+ul,li {
+list-style:none;
+}
+
+input {
+border:none;
+}
+
+body {
+width:144rem;
+}
+
+.shop--N4P {
+width:100%;
+overflow:hidden;
+position:relative;
+align-items:center;
+display:flex;
+flex-direction:column;
+background-color:#fff;
+}
+
+.shop--N4P .auto-group-8oyq-fpB {
+box-sizing:border-box;
+padding-bottom:.7731rem;
+width:100%;
+display:flex;
+flex-direction:column;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd {
+box-sizing:border-box;
+width:143.4rem;
+height:10.8rem;
+overflow:hidden;
+position:relative;
+background-color:#fff;
+flex-shrink:0;
+padding:0 10.5rem;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By {
+width:100%;
+height:100%;
+position:relative;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-2-fxb {
+width:43rem;
+height:2.4rem;
+position:absolute;
+left:39.4rem;
+top:4.5rem;
+display:flex;
+column-gap:7.5rem;
+align-items:center;
+}
+
+.pop-up-raK:hover {
+display:block;
+}
+
+.pop-up-raK {
+display:none;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-1-ipP {
+box-sizing:border-box;
+padding-right:.1553rem;
+width:122.4rem;
+height:10.8rem;
+position:absolute;
+left:0;
+top:0;
+display:flex;
+align-items:center;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-1-ipP .frame-168-SEb {
+margin-right:93.0482rem;
+width:5.0433rem;
+height:100%;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-1-ipP .mdi-account-alert-outline-Bhy {
+width:2.0173rem;
+height:1.6rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:0 5.346rem .6rem 0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-1-ipP .akar-icons-search-tcP {
+width:1.9164rem;
+height:1.9rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:0 5.447rem .7rem 0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-1-ipP .akar-icons-heart-zQX {
+width:2.0173rem;
+height:1.7834rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:0 5.289rem .617rem 0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-1-ipP .ant-design-shopping-cart-outlined-Wtf {
+margin-bottom:.4999rem;
+width:2.1208rem;
+height:1.8907rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .logo-qg3 {
+width:7.9667rem;
+height:9.6rem;
+position:absolute;
+left:16.7rem;
+top:.22rem;
+display:flex;
+font-size:6rem;
+font-weight:400;
+line-height:1.6;
+font-family:Rye, 'Source Sans Pro';
+white-space:nowrap;
+align-items:center;
+justify-content:center;
+background-color:#fff;
+border-radius:40rem;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by {
+margin-left:.3rem;
+box-sizing:border-box;
+width:calc(100%-0.3rem);
+height:31.6rem;
+filter:blur(0.3rem);
+background-size:100% 100%;
+background-repeat:no-repeat;
+background-position:center;
+background-image:url(../assets/rectangle-1-bg-Qxo.png);
+flex-shrink:0;
+padding:5.45rem 66.05rem 6.4rem 65.55rem;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .frame-169-ALw {
+margin-bottom:1.5rem;
+width:100%;
+height:15.85rem;
+position:relative;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .frame-169-ALw .group-187-7X5 {
+width:7.7rem;
+height:9.6rem;
+position:absolute;
+left:2.35rem;
+top:0;
+border-radius:40rem;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .frame-169-ALw .group-187-7X5 .meubel-houselogos-05-eX1 {
+width:7.7rem;
+height:7.7rem;
+position:absolute;
+left:0;
+top:.95rem;
+background-color:#fff;
+border-radius:40rem;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .frame-169-ALw .group-187-7X5 .a-ZP5 {
+width:4.3rem;
+height:9.6rem;
+position:absolute;
+left:1.7rem;
+top:0;
+display:flex;
+font-size:6rem;
+font-weight:400;
+line-height:1.6;
+font-family:Rye, 'Source Sans Pro';
+white-space:nowrap;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .frame-169-ALw .shop-TUT {
+width:12.4rem;
+height:7.2rem;
+position:absolute;
+left:0;
+top:8.65rem;
+font-size:4.8rem;
+font-weight:500;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .group-56-NLX {
+width:calc(100%-0.3rem);
+display:flex;
+column-gap:1.2rem;
+align-items:center;
+flex-shrink:0;
+margin:0 .15rem;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .group-56-NLX .dashicons-arrow-down-alt2-S5V {
+width:.8rem;
+height:1.4rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .group-56-NLX .shop-kM5 {
+font-size:1.6rem;
+font-weight:300;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .group-63-Ry1 {
+margin-bottom:4.6rem;
+box-sizing:border-box;
+width:100%;
+height:8.5269rem;
+display:flex;
+align-items:center;
+background-color:#e8f9fd;
+flex-shrink:0;
+padding:1.876rem 10rem 1.961rem 9.8rem;
+}
+
+.shop--N4P .group-63-Ry1 .group-57-jTu {
+box-sizing:border-box;
+padding-left:.2976rem;
+height:calc(100%-1.6898rem);
+display:flex;
+align-items:center;
+flex-shrink:0;
+margin:1.108rem 2.883rem .581rem 0;
+}
+
+.shop--N4P .group-63-Ry1 .group-57-jTu .system-uicons-filtering-rYX {
+width:1.9048rem;
+height:1.4211rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:0 1.498rem .426rem 0;
+}
+
+.shop--N4P .group-63-Ry1 .group-57-jTu .filter-y7M {
+font-size:2rem;
+font-weight:400;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .group-63-Ry1 .ci-grid-big-round-JfR {
+width:1.6333rem;
+height:1.3927rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:.085rem 3.133rem 0 0;
+}
+
+.shop--N4P .group-63-Ry1 .bi-view-list-REF {
+width:2.1rem;
+height:1.6627rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:.085rem 3.15rem 0 0;
+}
+
+.shop--N4P .group-63-Ry1 .group-62-kXR {
+box-sizing:border-box;
+height:calc(100%-1.5348rem);
+font-size:1.6rem;
+font-weight:400;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+border-left:solid .2rem #9f9f9f;
+flex-shrink:0;
+margin:.767rem 34.7rem .767rem 0;
+padding:.597rem 0 .158rem 3.4rem;
+}
+
+.shop--N4P .group-63-Ry1 .group-60-DR1 {
+margin-right:2.9rem;
+height:100%;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .group-63-Ry1 .group-60-DR1 .group-58-VdR {
+width:5.5rem;
+height:100%;
+font-size:2rem;
+font-weight:400;
+line-height:1.5;
+color:#9f9f9f;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:#fff;
+flex-shrink:0;
+}
+
+.shop--N4P .group-63-Ry1 .group-61-zaB .group-59-sts {
+width:18.8rem;
+height:100%;
+font-size:2rem;
+font-weight:400;
+line-height:1.5;
+color:#9f9f9f;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:#fff;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK {
+width:100%;
+height:205.1rem;
+cursor:pointer;
+position:relative;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .rectangle-6-Wwq {
+width:144rem;
+height:77.7rem;
+position:absolute;
+left:0;
+top:0;
+background-color:#fff;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h {
+width:123.8rem;
+height:203.4rem;
+position:absolute;
+left:9.9rem;
+top:1.7rem;
+align-items:center;
+display:flex;
+flex-direction:column;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq {
+width:calc(100%-0.1rem);
+height:44.6rem;
+display:flex;
+align-items:center;
+flex-shrink:0;
+margin:0 .05rem 4rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns {
+width:14.8rem;
+height:9.9rem;
+position:absolute;
+left:1.6rem;
+top:31.7rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH {
+margin-right:2.9rem;
+width:28.7rem;
+height:100%;
+cursor:pointer;
+position:relative;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .bg-r7q {
+width:28.4rem;
+height:14.5rem;
+position:absolute;
+left:0;
+top:30.1rem;
+background-color:#f4f5f7;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .description-nnB {
+width:22.6056rem;
+height:9.9rem;
+position:absolute;
+left:1.5944rem;
+top:31.7rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .description-nnB .frame-6-MTu {
+margin-left:.0056rem;
+width:calc(100%-0.0056rem);
+font-size:2rem;
+font-weight:600;
+line-height:1.5;
+color:#3a3a3a;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:baseline;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1 .image-8-JnT {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-8-TdZ.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1 .image-7-nxX {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-7-mAw.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1 .image-6-uXM {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-6-3Pu.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1 .image-4-Mu9 {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-4-7pj.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1 .image-3-gAj {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-3-cBR.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1 .image-2-BtB {
+width:28.3004rem;
+height:30.1rem;
+position:relative;
+left:.0996rem;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5736rem -5.2943rem;
+background-image:url(../assets/image-2-onF.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 {
+width:18.3rem;
+height:9.9rem;
+position:absolute;
+left:1.6rem;
+top:31.7rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK {
+box-sizing:border-box;
+width:28.5rem;
+height:44.6rem;
+position:absolute;
+left:0;
+top:0;
+background-color:rgba(58,58,58,0.7200000286);
+padding:17.5rem 1.7rem 17.5rem 1.6rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .cta-vq5 {
+width:calc(100%-5rem);
+height:4.8rem;
+font-size:1.6rem;
+font-weight:600;
+line-height:1.5;
+color:#fff;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:#46b5c4;
+flex-shrink:0;
+margin:0 2.5rem 2.4rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q {
+width:100%;
+height:2.4rem;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-11-Lto {
+margin-right:2rem;
+box-sizing:border-box;
+padding-left:.2rem;
+height:100%;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-11-Lto .gridicons-share-5bV {
+width:1.2rem;
+height:1.3333rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:0 .4rem 0 0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-12-8Zm {
+margin-right:2.1081rem;
+box-sizing:border-box;
+padding-left:.142rem;
+height:100%;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-12-8Zm .compare-svgrepo-com-1-Gfy {
+margin-right:.348rem;
+width:1.31rem;
+height:1.4rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-10-Lfq .heart-57d {
+width:1.3837rem;
+height:1.1899rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:.017rem .308rem 0 0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s .image-8-SL7 {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-8-VC3.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s .image-7-jq1 {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-7-peb.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s .image-6-FYT {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-6-y5y.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s .image-4-igw {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-4-XzF.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s .image-3-SN3 {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-3-66s.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s .image-2-Mju {
+width:28.4rem;
+height:30.1rem;
+position:relative;
+left:.1rem;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5792rem -5.2943rem;
+background-image:url(../assets/image-2-t7H.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .images-jeX .image-8-TqR {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-8-ZGK.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .images-jeX .image-7-X4b {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-7-fxB.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .images-jeX .image-6-yhH {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-6-DqR.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .images-jeX .image-4-phu {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-4-U2T.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .images-jeX .image-2-wGj {
+width:28.4rem;
+height:30.1rem;
+position:relative;
+left:.1rem;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5792rem -5.2943rem;
+background-image:url(../assets/image-2-ZmH.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK {
+margin-bottom:7rem;
+width:100%;
+height:44.6rem;
+display:flex;
+column-gap:3rem;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h .image-8-5Zq {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-8-X3M.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h .image-7-amV {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-7-KSw.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h .image-6-JSb {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-6-YQF.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h .image-4-kJb {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-4-CWj.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h .image-3-GGw {
+width:28.5rem;
+height:30.1rem;
+position:relative;
+left:0;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5847rem -5.2943rem;
+background-image:url(../assets/image-3-XYB.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h .image-2-BPu {
+width:28.4rem;
+height:30.1rem;
+position:relative;
+left:.1rem;
+top:0;
+background-size:110.563% 141.104%;
+background-position:-1.5792rem -5.2943rem;
+background-image:url(../assets/image-2-emM.png);
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-72-YWb {
+width:calc(100%-84.6rem);
+height:6rem;
+display:flex;
+column-gap:3.8rem;
+align-items:center;
+flex-shrink:0;
+margin:0 42.4rem 0 42.2rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-72-YWb .group-68-3iF {
+width:6rem;
+height:100%;
+font-size:2rem;
+font-weight:400;
+line-height:1.5;
+color:#fff;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:#46b5c4;
+border-radius:1rem;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-72-YWb .group-71-6a3 {
+width:9.8rem;
+height:100%;
+font-size:2rem;
+font-weight:300;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:#e8f9fd;
+border-radius:1rem;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf {
+box-sizing:border-box;
+padding-top:8.5rem;
+width:100%;
+align-items:center;
+display:flex;
+flex-direction:column;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab {
+margin-right:.3rem;
+box-sizing:border-box;
+width:calc(100%-0.3rem);
+height:27rem;
+background-color:#e8f9fd;
+flex-shrink:0;
+padding:10rem 5.3rem 8.5rem;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ {
+width:100%;
+height:100%;
+display:flex;
+align-items:flex-start;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-5-YaT {
+margin-right:5.4333rem;
+box-sizing:border-box;
+padding-left:.3614rem;
+height:7rem;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-5-YaT .trophy-1-HH9 {
+margin-right:1.3614rem;
+width:5.2772rem;
+height:6rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-19-eG7 .guarantee-PzP {
+width:6rem;
+height:5.8125rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:.594rem .1rem 0 0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-19-eG7 .auto-group-wnux-vjR {
+box-sizing:border-box;
+padding-left:.9rem;
+width:26.7rem;
+height:100%;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-19-eG7 .auto-group-wnux-vjR .text-suZ {
+width:100%;
+height:7rem;
+display:flex;
+flex-direction:column;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB {
+box-sizing:border-box;
+padding-left:5.5333rem;
+height:100%;
+display:flex;
+align-items:flex-start;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-2-fD9 {
+margin-right:5.5333rem;
+height:7rem;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-2-fD9 .shipping-bsV {
+width:6rem;
+height:5.5971rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+margin:0 1rem 0 0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-4-AJK {
+box-sizing:border-box;
+padding-left:.3529rem;
+height:7rem;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-4-AJK .customer-support-uFu {
+margin-right:1.3529rem;
+width:5.2941rem;
+height:6rem;
+object-fit:contain;
+vertical-align:top;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP {
+margin-right:.3rem;
+box-sizing:border-box;
+width:calc(100%-0.3rem);
+height:50.5rem;
+border:solid .1rem rgba(0,0,0,0.1700000018);
+background-color:#bde9ef;
+flex-shrink:0;
+padding:4.8rem 9.999rem 3.8rem 10rem;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK {
+width:100%;
+height:100%;
+display:flex;
+flex-direction:column;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM {
+width:calc(100%-46.5007rem);
+height:31.2rem;
+display:flex;
+align-items:flex-start;
+flex-shrink:0;
+margin:0 46.501rem 4.8rem 0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .auto-group-yjhd-djd {
+margin-right:19.1007rem;
+display:flex;
+flex-direction:column;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .auto-group-yjhd-djd .ala-too-it-club-PTu {
+margin-bottom:5rem;
+font-size:2.4rem;
+font-weight:700;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .auto-group-yjhd-djd .done-by-university-students-XKD {
+margin-left:.2rem;
+font-size:1.6rem;
+font-weight:400;
+line-height:1.5;
+color:#9f9f9f;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-26-CRM {
+margin-right:14.4rem;
+height:100%;
+display:flex;
+flex-direction:column;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-26-CRM .links-xQX {
+margin-bottom:5.5rem;
+font-size:1.6rem;
+font-weight:500;
+line-height:1.5;
+color:#9f9f9f;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-26-CRM .group-24-hN7 {
+margin-left:.2rem;
+display:flex;
+flex-direction:column;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-27-cdV {
+width:14rem;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-27-cdV .help-aKR {
+margin-bottom:5.5rem;
+font-size:1.6rem;
+font-weight:500;
+line-height:1.5;
+color:#9f9f9f;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-27-cdV .group-25-iwR {
+width:100%;
+display:flex;
+flex-direction:column;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-44-i4F {
+margin-left:0;
+box-sizing:border-box;
+width:calc(100%-0rem);
+font-size:1.6rem;
+font-weight:400;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+border-top:solid .1rem #d9d9d9;
+flex-shrink:0;
+padding:3.5rem 47.301rem 0 47.3rem;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-2-fxb .home-P7u,.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-2-fxb .shop-WTR,.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-2-fxb .about-T7m,.shop--N4P .auto-group-8oyq-fpB .header-cDd .group-168-8By .group-2-fxb .contact-nQw,.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu .group-56-NLX .home-6nK,.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-26-CRM .group-24-hN7 .contact-57m,.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-27-cdV .group-25-iwR .privacy-policies-B4K {
+font-size:1.6rem;
+font-weight:500;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-8oyq-fpB .frame-171-6by .frame-170-Cuu,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH {
+width:100%;
+height:100%;
+align-items:center;
+display:flex;
+flex-direction:column;
+}
+
+.shop--N4P .group-63-Ry1 .group-60-DR1 .show-mSX,.shop--N4P .group-63-Ry1 .group-61-zaB .short-by-M9q {
+font-size:2rem;
+font-weight:400;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+margin:.357rem 1.7rem 0 0;
+}
+
+.shop--N4P .group-63-Ry1 .group-61-zaB,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-10-Lfq {
+height:100%;
+display:flex;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ {
+margin-right:3rem;
+width:28.7rem;
+height:100%;
+cursor:pointer;
+position:relative;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .bg-Sj1,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .bg-R1q,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .bg-Eej,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .bg-YUP,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .bg-K59,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .bg-nqD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .bg-VS7,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .bg-nLf,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .bg-C6s,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .bg-Y1d,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .bg-9jV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .bg-bmq,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .bg-zWT,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .bg-qDZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .bg-XZZ {
+width:28.5rem;
+height:14.5rem;
+position:absolute;
+left:0;
+top:30.1rem;
+background-color:#f4f5f7;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .product-name-KXu,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .description-nnB .product-name-vdV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .product-name-p3y,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .description-yMR .product-name-uF5,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .product-name-1cs,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .description-rqm .product-name-b2f,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .product-name-Fyh,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .description-doD .product-name-Ao9,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .product-name-Txb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .description-k8P .product-name-UKH,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .product-name-QZd,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .description-HKu .product-name-p4w,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .product-name-Tp3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .description-wgb .product-name-g8P,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .product-name-hmZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .description-4ZV .product-name-C9u {
+margin-bottom:.8rem;
+display:flex;
+flex-direction:column;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .product-name-KXu .product-name-sJX,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .description-nnB .product-name-vdV .product-name-g6s,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .product-name-p3y .product-name-YEs,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .description-yMR .product-name-uF5 .product-name-eTZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .product-name-1cs .product-name-Mwd,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .description-rqm .product-name-b2f .product-name-w6X,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .product-name-Fyh .product-name-cZM,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .description-doD .product-name-Ao9 .product-name-ipf,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .product-name-Txb .product-name-pHM,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .description-k8P .product-name-UKH .product-name-ptw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .product-name-QZd .product-name-kdV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .description-HKu .product-name-p4w .product-name-97D,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .product-name-Tp3 .product-name-cS3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .description-wgb .product-name-g8P .product-name-2CF,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .product-name-hmZ .product-name-TVq,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .description-4ZV .product-name-C9u .product-name-Lmu {
+margin-bottom:.8rem;
+font-size:2.4rem;
+font-weight:600;
+line-height:1.2000000477;
+color:#3a3a3a;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .product-name-KXu .sort-description-Pnf,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .description-nnB .product-name-vdV .sort-description-D6o,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .product-name-p3y .sort-description-4yu,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .description-yMR .product-name-uF5 .sort-description-Tfu,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .product-name-1cs .sort-description-twZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .description-rqm .product-name-b2f .sort-description-foD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .product-name-Fyh .sort-description-kfZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .description-doD .product-name-Ao9 .sort-description-FZh,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .product-name-Txb .sort-description-Yz3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .description-k8P .product-name-UKH .sort-description-knb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .product-name-QZd .sort-description-HdR,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .description-HKu .product-name-p4w .sort-description-sou,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .product-name-Tp3 .sort-description-YqV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .description-wgb .product-name-g8P .sort-description-ktw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .product-name-hmZ .sort-description-PeP,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .description-4ZV .product-name-C9u .sort-description-gKy {
+font-size:1.6rem;
+font-weight:500;
+line-height:1.5;
+color:#898989;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .frame-6-Xdy,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .frame-6-cEj,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .frame-6-2Xy,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .frame-6-Vt3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .frame-6-JCX,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .frame-6-dSP,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .frame-6-VVq,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .frame-6-Knw {
+width:100%;
+display:flex;
+align-items:center;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .frame-6-Xdy .fix-price-h2f,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .frame-6-cEj .fix-price-An3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .frame-6-2Xy .fix-price-b5H,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .frame-6-Vt3 .fix-price-Tps,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .frame-6-JCX .fix-price-enB,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .frame-6-dSP .fix-price-z23,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .frame-6-VVq .fix-price-rLP,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .frame-6-Knw .fix-price-tLF {
+margin-right:1.6rem;
+font-size:2rem;
+font-weight:600;
+line-height:1.5;
+color:#3a3a3a;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:baseline;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .frame-6-Xdy .fix-price-h2f .fix-price-h2f-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .description-nnB .frame-6-MTu .frame-6-MTu-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .frame-6-cEj .fix-price-An3 .fix-price-An3-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .description-yMR .frame-6-zvj .frame-6-zvj-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .frame-6-2Xy .fix-price-b5H .fix-price-b5H-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .description-rqm .frame-6-CYF .frame-6-CYF-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .frame-6-Vt3 .fix-price-Tps .fix-price-Tps-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .description-doD .frame-6-CUw .frame-6-CUw-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .frame-6-JCX .fix-price-enB .fix-price-enB-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .description-k8P .frame-6-W15 .frame-6-W15-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .frame-6-dSP .fix-price-z23 .fix-price-z23-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .description-HKu .frame-6-D75 .frame-6-D75-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .frame-6-VVq .fix-price-rLP .fix-price-rLP-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .description-wgb .frame-6-uG3 .frame-6-uG3-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .frame-6-Knw .fix-price-tLF .fix-price-tLF-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .description-4ZV .frame-6-RYT .frame-6-RYT-sub-0 {
+font-size:2rem;
+font-weight:700;
+line-height:1.5;
+color:#3a3a3a;
+font-family:Poppins, 'Source Sans Pro';
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .frame-6-Xdy .fix-price-S8f,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .frame-6-cEj .fix-price-bsM,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .frame-6-2Xy .fix-price-Ra7,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .frame-6-Vt3 .fix-price-JKh,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .frame-6-JCX .fix-price-Hq9,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .frame-6-dSP .fix-price-cZD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .frame-6-VVq .fix-price-u3m,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .frame-6-Knw .fix-price-LT9 {
+font-size:1.6rem;
+font-weight:400;
+line-height:1.5;
+text-decoration-line:line-through;
+color:#b0b0b0;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:baseline;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .description-nns .frame-6-Xdy .fix-price-S8f .fix-price-S8f-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .description-8S3 .frame-6-cEj .fix-price-bsM .fix-price-bsM-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD .frame-6-2Xy .fix-price-Ra7 .fix-price-Ra7-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P .frame-6-Vt3 .fix-price-JKh .fix-price-JKh-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX .frame-6-JCX .fix-price-Hq9 .fix-price-Hq9-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy .frame-6-dSP .fix-price-cZD .fix-price-cZD-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP .frame-6-VVq .fix-price-u3m .fix-price-u3m-sub-0,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu .frame-6-Knw .fix-price-LT9 .fix-price-LT9-sub-0 {
+font-size:1.6rem;
+font-weight:700;
+line-height:1.5;
+text-decoration-line:line-through;
+color:#b0b0b0;
+font-family:Poppins, 'Source Sans Pro';
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .images-Fh1,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .images-DYb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .images-kBh,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .images-qno,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .images-jeX,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .images-S2T,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .images-3ro,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .images-zGo,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .images-5N7 {
+width:28.7rem;
+height:30.1rem;
+position:absolute;
+left:0;
+top:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-8-zJb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-7-89u,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-6-sNP,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-4-ZFD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-3-Jib,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-1-aRD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .images-Fh1 .image-8-BqZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .images-Fh1 .image-7-8ko,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .images-Fh1 .image-6-5R9,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .images-Fh1 .image-4-NQF,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .images-Fh1 .image-3-X2F,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-8-ceb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-7-McB,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-6-6pf,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-4-bFd,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-3-wKV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-1-S1M,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .images-kBh .image-8-sXD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .images-kBh .image-7-cjh,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .images-kBh .image-6-Zew,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .images-kBh .image-4-U1D,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .images-kBh .image-3-QfZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-8-61u,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-7-2w9,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-6-BZ9,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-4-fz7,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-3-RCb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-1-Vy9,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .images-S2T .image-8-xWb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .images-S2T .image-7-6co,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .images-S2T .image-6-SRm,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .images-S2T .image-4-83h,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .images-S2T .image-3-4xw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-8-Hq1,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-7-RgK,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-6-n15,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-4-5F5,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-3-DcB,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-1-Vpb,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .images-zGo .image-8-7sD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .images-zGo .image-7-UBy,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .images-zGo .image-6-DQT,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .images-zGo .image-4-WPZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .images-zGo .image-3-FM9 {
+width:28.5rem;
+height:30.1rem;
+position:absolute;
+left:0;
+top:0;
+object-fit:cover;
+vertical-align:top;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-5-DBM,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-uyH .images-NP1 .image-5-cwZ,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .images-Fh1 .image-5-25V,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-5-FSf,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .images-v6s .image-5-xxf,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .images-kBh .image-5-7gT,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-5-KvF,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .images-jeX .image-5-gbh,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .images-S2T .image-5-ywV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-5-L2b,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .images-Z5h .image-5-pQw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .images-zGo .image-5-kvB {
+width:28.5rem;
+height:30.1rem;
+position:absolute;
+left:0;
+top:0;
+object-fit:contain;
+vertical-align:top;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-Jco .images-4Qw .image-2-FNw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .images-HcK .image-2-tVd,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .images-xAb .image-2-Mrw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .images-kaB .image-2-A1d {
+width:28.4rem;
+height:30.1rem;
+position:absolute;
+left:.1rem;
+top:0;
+object-fit:cover;
+vertical-align:top;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-11-Lto .share-Cg7,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-12-8Zm .compare-CZd,.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-5yZ .pop-up-raK .button-mhH .frame-5-15q .frame-10-Lfq .like-nnj {
+font-size:1.6rem;
+font-weight:600;
+line-height:1.5;
+color:#fff;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q {
+width:28.7rem;
+height:100%;
+cursor:pointer;
+position:relative;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .description-yMR,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .description-doD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .description-HKu,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .description-4ZV {
+width:24.2rem;
+height:9.9rem;
+position:absolute;
+left:1.6rem;
+top:31.7rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .description-yMR .frame-6-zvj,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .description-rqm .frame-6-CYF,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .description-doD .frame-6-CUw,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .description-k8P .frame-6-W15,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .description-HKu .frame-6-D75,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .description-wgb .frame-6-uG3,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .description-4ZV .frame-6-RYT {
+width:100%;
+font-size:2rem;
+font-weight:600;
+line-height:1.5;
+color:#3a3a3a;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:baseline;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-7-PVq .featured-products-6oR .images-DYb .image-4-wjV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-wfV .images-qno .image-4-yu1,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-D59 .images-3ro .image-4-nZV,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-z3q .images-5N7 .image-4-DDR {
+width:28.5rem;
+height:30.1rem;
+object-fit:cover;
+vertical-align:top;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy {
+margin-bottom:4rem;
+width:100%;
+height:44.6rem;
+display:flex;
+column-gap:3rem;
+align-items:center;
+flex-shrink:0;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-p2b .description-5jD,.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-mZR .description-rqm,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-rC7 .description-8QX,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SdV .description-k8P,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-rZM .description-XvP,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-3bD .description-wgb {
+width:22.6rem;
+height:9.9rem;
+position:absolute;
+left:1.6rem;
+top:31.7rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-73-5ao .featured-products-TY3 .description-88P,.shop--N4P .group-83-xvK .frame-77-s1h .frame-76-Khy .featured-products-SDV .description-Ufy,.shop--N4P .group-83-xvK .frame-77-s1h .frame-75-KpK .featured-products-HC3 .description-msu {
+width:23rem;
+height:9.9rem;
+position:absolute;
+left:1.6rem;
+top:31.7rem;
+}
+
+.shop--N4P .group-83-xvK .frame-77-s1h .frame-72-YWb .group-69-ukT,.shop--N4P .group-83-xvK .frame-77-s1h .frame-72-YWb .group-70-oaw {
+width:6rem;
+height:100%;
+font-size:2rem;
+font-weight:400;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+display:flex;
+align-items:center;
+justify-content:center;
+background-color:#e8f9fd;
+border-radius:1rem;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-5-YaT .text-pH5,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-2-fD9 .text-8Md,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-4-AJK .text-DnP {
+height:100%;
+display:flex;
+flex-direction:column;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-5-YaT .text-pH5 .high-quality-yQs,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-19-eG7 .auto-group-wnux-vjR .text-suZ .warranty-protection-SBy,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-2-fD9 .text-8Md .free-shipping-VT5,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-4-AJK .text-DnP .support-acw {
+margin-bottom:.2rem;
+font-size:2.5rem;
+font-weight:600;
+line-height:1.5;
+color:#242424;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-5-YaT .text-pH5 .crafted-from-top-materials-i7Z,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-19-eG7 .auto-group-wnux-vjR .text-suZ .over-2-years-ANs,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-2-fD9 .text-8Md .order-over-150--dJP,.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .auto-group-qzty-JEB .frame-4-AJK .text-DnP .dedicated-support-7cs {
+font-size:2rem;
+font-weight:500;
+line-height:1.5;
+color:#898989;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .frame-161-Uab .feature-PhZ .frame-19-eG7,.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK {
+height:100%;
+display:flex;
+align-items:flex-start;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-26-CRM .group-24-hN7 .home-Esq,.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-26-CRM .group-24-hN7 .shop-Nz3,.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-27-cdV .group-25-iwR .payment-options-Uvb {
+margin-bottom:4.6rem;
+font-size:1.6rem;
+font-weight:500;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
+
+.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-26-CRM .group-24-hN7 .about-XM9,.shop--N4P .auto-group-ats7-waf .footer-ExP .group-45-MGK .group-32-JhM .group-28-EzK .group-27-cdV .group-25-iwR .returns-E95 {
+margin-bottom:4.5rem;
+font-size:1.6rem;
+font-weight:500;
+line-height:1.5;
+color:#000;
+font-family:Poppins, 'Source Sans Pro';
+white-space:nowrap;
+flex-shrink:0;
+}
